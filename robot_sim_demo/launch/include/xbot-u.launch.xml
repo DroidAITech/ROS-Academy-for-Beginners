@@ -10,7 +10,7 @@
 
 
   <param name="robot_description_obj" command="$(find xacro)/xacro.py $(find robot_sim_demo)/urdf/robot.xacro" />
-  <!-- URDF and TF support -->
+  <!-- URDF and TF __ robot_state_publisher -->
   <param name="robot_description" command="$(find xacro)/xacro.py $(find robot_sim_demo)/urdf/robot_dae.xacro" />
 
   <!-- Put a robot in gazebo, make it look pretty -->

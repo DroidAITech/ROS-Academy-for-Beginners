@@ -1,0 +1,54 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/sique/academy_ws/devel/include/**",
+        "/home/sique/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/amcl/include/**",
+        "/home/sique/catkin_ws/src/avoidance/avoidance/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/base_local_planner/include/**",
+        "/home/sique/catkin_ws/src/Tutorial/beginner_tutorials/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/carrot_planner/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/clear_costmap_recovery/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/costmap_2d/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/dwa_local_planner/include/**",
+        "/home/sique/catkin_ws/src/avoidance/global_planner/include/**",
+        "/home/sique/academy_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_geotiff/include/**",
+        "/home/sique/academy_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_map_tools/include/**",
+        "/home/sique/academy_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_mapping/include/**",
+        "/home/sique/academy_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_marker_drawing/include/**",
+        "/home/sique/catkin_ws/src/mavros/libmavconn/include/**",
+        "/home/sique/catkin_ws/src/avoidance/local_planner/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/map_server/include/**",
+        "/home/sique/catkin_ws/src/mav_isir/include/**",
+        "/home/sique/catkin_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/sique/catkin_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/sique/catkin_ws/src/mavros/mavros/include/**",
+        "/home/sique/catkin_ws/src/mavros/mavros_msgs/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/move_base/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/move_slow_and_clear/include/**",
+        "/home/sique/catkin_ws/src/Tutorial/my_pcl_tutorial/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/nav_core/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/nav_global_planner/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/navfn/include/**",
+        "/home/sique/catkin_ws/src/offboard_pkg/include/**",
+        "/home/sique/academy_ws/src/ROS-Academy-for-Beginners/dependlib/openslam_gmapping/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/rotate_recovery/include/**",
+        "/home/sique/catkin_ws/src/rotors_simulator/rotors_control/include/**",
+        "/home/sique/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/sique/catkin_ws/src/rotors_simulator/rotors_hil_interface/include/**",
+        "/home/sique/catkin_ws/src/rotors_simulator/rotors_joy_interface/include/**",
+        "/home/sique/catkin_ws/src/avoidance/safe_landing_planner/include/**",
+        "/home/sique/catkin_ws/src/mavros/test_mavros/include/**",
+        "/home/sique/catkin_ws/src/ROS-Academy-for-Beginners/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
